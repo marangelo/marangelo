@@ -15,7 +15,7 @@
 
 <p align='center'>
   
- ![Website](https://img.shields.io/badge/marangelo.lat-up-green?style=for-the-badge)
+ ![Website](https://img.shields.io/badge/marangelo.com-up-green?style=for-the-badge)
 
 </p>
 
